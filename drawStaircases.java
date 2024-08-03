@@ -10,7 +10,6 @@ public class drawStaircases {
                 System.out.println("*");
 
             }
-            
             //change row
             System.out.println();
 
