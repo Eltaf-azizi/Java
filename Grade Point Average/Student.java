@@ -34,6 +34,7 @@ public class Student {
         double totalPoint = 0.0;
         for (char g : grade) {
             switch(g) {
+                
                 case 'A' :
                 totalPoint += 4.0;
                 break;
