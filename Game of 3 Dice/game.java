@@ -30,7 +30,8 @@ public class game {
                 if(dice[j] == target) points++;
             }
         }
-
+        System.out.println(who + " got " + points + " points");
+        return points;
     }
 
 }
