@@ -1,5 +1,5 @@
 
-public class Location {
+public enum Location {
     SUNNYCITY,
     HAPPYTOWN,
     GLORIOUSLAKE

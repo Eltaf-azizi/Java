@@ -18,5 +18,6 @@ public class TicketSystem {
             basicCharge *= 0.9;
         }
         totalCharge = basicCharge * numTickets;
+        return totalCharge;
     }
 }
