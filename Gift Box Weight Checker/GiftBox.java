@@ -1,3 +1,3 @@
-public class giftBoxWeightChecker {
+public class GiftBox {
     
 }
