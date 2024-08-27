@@ -26,10 +26,32 @@ public class GiftBox {
  
         }
 
-        public int getNumBiscuits() {
-                return biscuitsSet.size();
-        }
+    public int getNumBiscuits() {
+        return biscuitsSet.size();
+    }
+
         public int getNumChocolate() {
             return chocolateSet.size();
+    }
+
+    public double getWeight(){
+        return weight;
+    }
+
+    public void showBiscuitsWeights() {
+        for(Biscuits biscuit : biscuitsSet) {
+            System.out.println(biscuit.getWeight() + " ");
+        }
+    }
+
+    public void showChocolateWeights() {
+        for(Chocolate chocolate : chocolateSet) {
+            System.out.println(chocolate.getWeight() + " ");
+        }
+    }
+    public void showChocolateFlavors(){
+        for(Chocolate chocolate : chocolateSet) {
+            System.out.println(chocolate.getFlavor() + " ");
+        }
     }
 }
