@@ -4,10 +4,10 @@ This repository contains a collection of Java projects that showcase various pro
 
 ## Table of Contents
 #### 1.  Average Stock Price
-Calculates the average stock price over a given period.
-#### Bag Sales System
+ - Calculates the average stock price over a given period.
+#### 2.  Bag Sales System
 
-Manages bag sales, including inventory and customer transactions.
+ - Manages bag sales, including inventory and customer transactions.
 Bank Account with Transfer Feature
 
 Simulates a bank account system with the ability to transfer funds between accounts.
