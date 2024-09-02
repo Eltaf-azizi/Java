@@ -77,3 +77,10 @@ This repository contains a collection of Java projects that showcase various pro
 #### 26. Word Counter
 
  - Counts the total number of words in a given text.
+
+## Getting Started
+To run any of these projects, ensure you have the following setup:
+
+ - Java Development Kit (JDK) installed
+ - A Java IDE (like IntelliJ IDEA, Eclipse, or NetBeans) or a text editor with Java support
+ - Clone this repository: git clone <repository-url>
