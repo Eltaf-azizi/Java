@@ -3,7 +3,7 @@
 This repository contains a collection of Java projects that showcase various programming concepts, algorithms, and real-world applications. Each project is designed to help you understand and practice different aspects of Java development, from basic programming constructs to more complex systems.
 
 ## Table of Contents
-#### Average Stock Price
+#### 1.Average Stock Price
 Calculates the average stock price over a given period.
 #### Bag Sales System
 
