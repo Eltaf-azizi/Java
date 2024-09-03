@@ -86,13 +86,13 @@ To run any of these projects, ensure you have the following setup:
  - Clone this repository: git clone <repository-url>
 
 ## How to Run
-Navigate to the project directory.
+1. Navigate to the project directory.
 
-Compile the Java file using the following command:
+2. Compile the Java file using the following command:
 
-     javac <ProjectName>.java
+        javac <ProjectName>.java
 
-Run the compiled Java file:
+3. Run the compiled Java file:
 
 bash
 Copy code
