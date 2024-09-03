@@ -84,3 +84,17 @@ To run any of these projects, ensure you have the following setup:
  - Java Development Kit (JDK) installed
  - A Java IDE (like IntelliJ IDEA, Eclipse, or NetBeans) or a text editor with Java support
  - Clone this repository: git clone <repository-url>
+
+How to Run
+Navigate to the project directory.
+
+Compile the Java file using the following command:
+
+bash
+Copy code
+javac <ProjectName>.java
+Run the compiled Java file:
+
+bash
+Copy code
+java <ProjectName>
