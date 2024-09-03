@@ -94,6 +94,5 @@ To run any of these projects, ensure you have the following setup:
 
 3. Run the compiled Java file:
 
-bash
-Copy code
-java <ProjectName>
+       java <ProjectName>
+
