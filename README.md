@@ -97,4 +97,4 @@ To run any of these projects, ensure you have the following setup:
        java <ProjectName>
 
 ## Contributing
-Contributions are welcome! If you have a project you'd like to add or any improvements to suggest, please fork the repository, make your changes, and submit a pull request.
+Contributions are **welcome!** If you have a project you'd like to add or any improvements to suggest, please fork the repository, make your changes, and submit a pull request.
